@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SupreetoSaha
 - 👀 I’m interested in: System Critical Development
-- 🌱 I’m currently learning: Unreal Engine
+- 🌱 I’m currently learning: EDA
 - 💞️ I’m looking to collaborate on: [insert-name-here], my own programming language
 - 📫 How to reach me: "https://www.linkedin.com/in/Supreeto/"
 
